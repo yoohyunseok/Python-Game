@@ -45,3 +45,4 @@ ex) create_image() 메서드로 태그를 지정할 수 있다.
 create_image의 x, y좌표는 이미지의 중심 좌표이다.
 
 """
+
